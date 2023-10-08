@@ -21,3 +21,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Anotações do curso
+React - Testes com Jest e Testing Library.txt
